@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "Victor Immanuvel",
+        "lastname": "A",
+        "age": "24",
+        "gender": "male",
+        "ug": "B.Sc.,",
+        "PG": "MCA.,",
+        "states": "Tamil Nadu",
+        "cities": "Madurai"
+    },
+    {
+        "firstname": "Victor",
+        "lastname": "A",
+        "age": "24",
+        "gender": "male",
+        "ug": "B.Tech.,",
+        "PG": "M.Tech.,",
+        "states": "Tamil Nadu",
+        "cities": "Erode"
+    },
+    {
+        "firstname": "vicky",
+        "lastname": "a",
+        "age": "27",
+        "gender": "male",
+        "ug": "B.Sc.,",
+        "PG": "MCA.,",
+        "states": "Tamil Nadu",
+        "cities": "Nagercoil"
+    },
+    {
+        "firstname": "hello",
+        "lastname": "world",
+        "age": "22",
+        "gender": "male",
+        "ug": "B.Sc.,",
+        "PG": "MCA.,",
+        "states": "Jharkhand",
+        "cities": "Madhupur"
+    }
+]
